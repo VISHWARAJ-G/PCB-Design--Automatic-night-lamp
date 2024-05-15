@@ -42,12 +42,12 @@ During the daytime when there is a light, the LDR has very low resistance and al
 
 ### Schematic diagram
 
-
+![alt text](Layout.png)
 
 ### Layout diagram
 
 
-
+![alt text](Layout2.png)
 
 
 # Result
